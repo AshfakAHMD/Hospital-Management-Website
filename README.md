@@ -34,7 +34,7 @@ This project is a comprehensive **web-based application** designed to streamline
 ## Setup Instructions
 1. Clone the repository using:  
    ```bash
-   git clone https://github.com/yourusername/pharmacy-patient-management.git
+   git clone https://github.com/AshfakAHMD/pharmacy-patient-management.git
    ```  
 2. Import the provided SQL file into your database management system.  
 3. Update the database credentials in the `config.php` file.  
