@@ -1,4 +1,4 @@
-# Pharmacy and Patient Management System
+# Hospital Management System
 
 ## Description
 This project is a comprehensive **web-based application** designed to streamline the operations of a pharmacy and patient management system. The system enables users to manage pharmacy inventory, handle patient admissions, and facilitate doctor bookings. The application is developed using **PHP, MySQL**, and **Bootstrap** to ensure a user-friendly and responsive experience.
